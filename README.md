@@ -70,14 +70,14 @@ The extraction and transformation of the Wikipedia data in the ETL function does
 - [x] 1. The data from the movies_df DataFrame replaces the current data in the movies table in the SQL database, as determined by the movies_query.png
 
 <kbd>
-  <img src="https://github.com/GabrielaTuma/Movies-ETL/blob/f26922965b4b3541d5476530842b2e1e637458df/Resources/movies_query.png">
+  <img src="https://github.com/GabrielaTuma/Movies-ETL/blob/d8d83a9d3e110ba7fd7ad90efb711c4dcc9c68ec/Resources/movies_query.png">
 </kbd>  &nbsp;
 </p>
 
 - [x] 2. The data from the MovieLens rating CSV file is added to the ratings table in the SQL database, as determined by the ratings_query.png
 
 <kbd>
-  <img src="https://github.com/GabrielaTuma/Movies-ETL/blob/f26922965b4b3541d5476530842b2e1e637458df/Resources/ratings_query.png">
+  <img src="https://github.com/GabrielaTuma/Movies-ETL/blob/d8d83a9d3e110ba7fd7ad90efb711c4dcc9c68ec/Resources/ratings_query.png">
 </kbd>  &nbsp;
 </p>
 
